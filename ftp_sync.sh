@@ -1,1 +1,2 @@
-lftp -f ftp_sync.config
+#!/bin/sh
+lftp -f /home/pi/Werbetafel-Pi/ftp_sync.config
