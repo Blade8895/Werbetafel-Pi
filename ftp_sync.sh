@@ -1,0 +1,1 @@
+lftp -f ftp_sync.config

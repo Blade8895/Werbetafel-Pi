@@ -1,0 +1,1 @@
+DISPLAY=:0.0 XAUTHORITY=/home/pi/.Xauthority /usr/bin/feh --quiet --preload --randomize --full-screen --reload 20 --slideshow-delay 5.0 /home/pi/Pictures
